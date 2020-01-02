@@ -1,4 +1,4 @@
-# projeto-curso
+# project to course
 
 ## Project setup
 ```
